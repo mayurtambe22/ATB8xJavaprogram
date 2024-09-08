@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a858ad-90c6-4de8-8b45-93cf32e4030d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Shortcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/lab007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30a858ad-90c6-4de8-8b45-93cf32e4030d" name="Changes" comment="add to file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +53,14 @@
     "onboarding.tips.debug.path": "C:/Users/tambe/IdeaProjects/ATB8xJavaprogram/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lab007">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ATB8xJavaprogram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sept.ex_06092024.lab004" />
       <module name="ATB8xJavaprogram" />
@@ -87,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.lab007" />
         <item itemvalue="Application.lab004" />
       </list>
@@ -101,7 +104,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725417258861</updated>
     </task>
+    <task id="LOCAL-00001" summary="add to file">
+      <option name="closed" value="true" />
+      <created>1725782498859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725782498859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add to file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
