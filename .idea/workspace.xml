@@ -1,27 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a858ad-90c6-4de8-8b45-93cf32e4030d" name="Changes" comment="" />
+    <list default="true" id="30a858ad-90c6-4de8-8b45-93cf32e4030d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Shortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mayurtambe22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mayurtambe22/ATB8xJavaprogram.git",
+    "accountId": "0797e313-b810-4397-a5b7-2bf735b3d909"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2laTacvBJFsZ4RtJfJ9l2aZiPax" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.lab004.executor": "Run",
+    "Application.lab007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/tambe/IdeaProjects/ATB8xJavaprogram/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.lab007">
+    <configuration name="lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_06092024.lab004" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sept.ex_06092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_06092024.lab007" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sept.ex_06092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lab007" />
+        <item itemvalue="Application.lab004" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
